@@ -1,7 +1,7 @@
 
 
 <!--
-Copyright (c) 2019 by Julien RAJERISON (Jul) (https://codepen.io/julkwel/pen/WLXLJZ)
+Copyright (c) 2019 by xanZheus (XaN)
 
 
 Fork of an original firework created by Luke Shimkus (https://codepen.io/programking/pen/ejELv)
