@@ -44,7 +44,7 @@ document.title += ` | ${gasyYear}`;
  * @returns {string}
  */
 function formatMessage(message) {
-    return message ? message.replace('{{YEAR}}', gasyYear) : `Bonne année ${gasyYear} !`;
+    return message ? message.replace('{{YEAR}}', gasyYear) : `Happy New Year ${gasyYear} !`;
 }
 
 /**
@@ -98,7 +98,7 @@ function checkGithub(link) {
  * @returns {string}
  */
 function getFlag(nous) {
-    return nous.flag ?? 'mg';
+    return nous.flag ?? 'id';
 }
 
 // Fetch json file
